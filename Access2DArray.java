@@ -1,4 +1,4 @@
-package Array;
+// package Array;
 
 public class Access2DArray {
     public static void main(String[]args){
